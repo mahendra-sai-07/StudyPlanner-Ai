@@ -21,3 +21,17 @@ Smart Study Planner (AI) is a no-code web application designed using Wix. It sim
 📄 Project Report
 
 Download: [MyWebsite.pdf](MyWebsite.pdf)
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](homepage.png)
+
+### ⚠️ Challenge Section
+![Challenge](challenge.png)
+
+### 🧠 Features Section
+![Features](features.png)
+
+### 🚀 Benefits Section
+![Benefits](benefits.png)
