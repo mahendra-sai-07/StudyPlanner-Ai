@@ -1,13 +1,23 @@
-# Smart Study Planner (AI)
+📘 Smart Study Planner (AI)
 
-- **Student Name:** Yeliginti Mahendra Sai  
-- **Branch:** CSE  
-- **Batch:** 24-11-2025 to 28-11-2025  
+An AI-powered study management platform that helps students organise their academic schedule through intelligent planning, deadline tracking, smart reminders, and personalised timetables.
 
-This project is an AI-based Smart Study Planner that helps students manage their
-subjects, deadlines, exams, and study timetable.
+👨‍🎓 Student Information
 
-🔗 **Live Website:** https://my-site-z1x5rz6i-yeligintimahendras.wix-vibe.com/
+Name: Yeliginti Mahendra Sai
 
-📄 **Project Report:** See [MyWebsite.pdf](MyWebsite.pdf) in this repository.
+Branch: CSE
 
+Batch Duration: 24-11-2025 to 28-11-2025
+
+🚀 Project Overview
+
+Smart Study Planner (AI) is a no-code web application designed using Wix. It simplifies academic planning by automatically adjusting study intensity, generating organised timetables, and tracking deadlines. The system ensures students stay consistent, productive, and stress-free.
+
+🌐 Live Demo
+
+🔗 Website: https://my-site-z1x5rz6i-yeligintimahendras.wix-vibe.com/
+
+📄 Project Report
+
+Download: MyWebsite.pdf
