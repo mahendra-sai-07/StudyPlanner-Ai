@@ -9,4 +9,4 @@ subjects, deadlines, exams, and study timetable.
 
 🔗 **Live Website:** https://my-site-z1x5rz6i-yeligintimahendras.wix-vibe.com/
 
-📄 **Project Report:** See `Edited_Project_Details.pdf` in this repository.
+📄 **Project Report:** See `Mywebsite.pdf` in this repository.
